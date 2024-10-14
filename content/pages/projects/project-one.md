@@ -1,29 +1,45 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: 2210 Eastlake Multifamily Project
 colors: colors-a
 date: '2021-10-15'
-client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+client: STS Construction
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
-  altText: Project thumbnail image
+  url: /images/eastlake_project.jpg
+  altText: 2210 Eastlake Project Thumbnail Image
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
-  altText: Project image
+  url: /images/eastlake_project.jpg
+  altText: 2210 Eastlake Project Image
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+### Project Overview
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+**2210 EASTLAKE | SEATTLE | $12M | MULTIFAMILY**
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+This project involved the construction of a 35,000 SF, 8-story, 57-unit multifamily apartment building in Seattle’s Eastlake neighborhood. As the Project Manager at STS Construction, I had full responsibility for project team development and direction, client relations, subcontractor coordination, project controls, and financials. The project was delivered successfully under budget and on time.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+---
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+**Key Responsibilities and Achievements:**
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+- Led on-site construction teams to ensure the project was completed efficiently, safely, and under budget.
+- Maintained strong client relationships through effective communication and collaboration.
+- Coordinated with subcontractors and suppliers to manage project logistics, timelines, and quality.
+- Implemented value engineering to optimize project costs and enhance outcomes.
+
+> "Effective project management is about collaboration, communication, and adapting to challenges to deliver the best outcome for stakeholders."
+
+The successful completion of this project highlights my expertise in managing complex multifamily residential developments while focusing on client satisfaction, safety, and efficiency. The project was a significant achievement, with positive feedback from the stakeholders and community.
+
+---
+
+### Skills Utilized
+
+- **Project Management**: Oversaw the entire project lifecycle from planning to execution, ensuring all milestones were achieved on schedule.
+- **Client Relations**: Fostered strong relationships with clients by maintaining transparency and providing regular progress updates.
+- **Team Leadership**: Directed on-site teams, subcontractors, and suppliers to work towards a common goal, ensuring safety and quality standards were met.
+- **Construction Technology**: Utilized tools such as MS Project, Procore, and Bluebeam for project planning, coordination, and documentation.
+
+This project is one example of my dedication to delivering quality construction projects that meet the expectations of demanding owners and contribute to the local community.

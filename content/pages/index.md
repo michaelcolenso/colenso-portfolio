@@ -14,12 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Michael Colenso, Construction Manager. Building the Future, Preserving the Past.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I’m Michael Colenso, a construction project manager dedicated to delivering complex projects on time, under budget, and with a focus on quality and safety. With experience spanning high-rise, hospitality, multifamily residential, historic renovations, and seismic retrofitting, I bring a wealth of knowledge to every project I undertake. Scroll down to learn more about my work and how I can bring value to your next project.
+
     styles:
       self:
         height: auto
@@ -63,6 +61,11 @@ sections:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
+      - content/pages/projects/project-four.md
+      - content/pages/projects/project-five.md
+      - content/pages/projects/project-six.md
+
+
     styles:
       self:
         height: auto
