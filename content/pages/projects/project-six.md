@@ -6,7 +6,7 @@ date: '2022-02-15'
 client: Osborne Construction Company
 featuredImage:
   type: ImageBlock
-  url: /images/hyatt_place.png
+  url: /images/barton_zion.jpg
   altText: Hyatt Place Hotel & Apartments Project Thumbnail Image
 media:
   type: ImageBlock
