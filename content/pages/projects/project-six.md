@@ -10,7 +10,7 @@ featuredImage:
   altText: Hyatt Place Hotel & Apartments Project Thumbnail Image
 media:
   type: ImageBlock
-  url: /images/hyatt_place.png
+  url: /images/alaska_building.png
   altText: Hyatt Place Hotel & Apartments Project Image
 ---
 
