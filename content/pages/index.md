@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/seattle_skyline_11_10_11-14.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -64,8 +64,6 @@ sections:
       - content/pages/projects/project-four.md
       - content/pages/projects/project-five.md
       - content/pages/projects/project-six.md
-
-
     styles:
       self:
         height: auto
