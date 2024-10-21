@@ -18,6 +18,7 @@ sections:
       Construction Project Manager with a passion for delivering high-quality
       residential and commercial projects with a focus on budget control and
       client satisfaction.
+>>>>>>> origin/main
     styles:
       self:
         height: auto
@@ -61,6 +62,11 @@ sections:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
+      - content/pages/projects/project-four.md
+      - content/pages/projects/project-five.md
+      - content/pages/projects/project-six.md
+
+
     styles:
       self:
         height: auto

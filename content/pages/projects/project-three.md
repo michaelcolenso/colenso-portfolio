@@ -1,29 +1,46 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: The Alaska Building Renovation
 colors: colors-a
 date: '2022-01-22'
-client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+client: Graham Construction
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
-  altText: Project thumbnail image
+  url: /images/alaska_building.png
+  altText: Alaska Building Renovation Project Thumbnail Image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
-  altText: Project image
+  url: /images/alaska_building.png
+  altText: Alaska Building Renovation Project Image
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+### Project Overview
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+**THE ALASKA BUILDING | SEATTLE | $12M+ | HOSPITALITY | SEISMIC | HIGH RISE | HISTORIC**
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+This project was a complex renovation of the historic Alaska Building in Seattle, involving seismic upgrades and converting the space into a high-rise hospitality facility. As a Project Manager at Graham Construction, I executed over $6 million in negotiated changes while maintaining a positive and cooperative relationship with the owner. The project also garnered prestigious national awards for excellence in historic restoration.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+---
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+**Key Responsibilities and Achievements:**
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+- Executed $6M+ in negotiated changes while maintaining strong client relationships.
+- Created compelling project documentation and photo content for award submissions.
+- Successfully completed seismic upgrades to ensure structural safety of the historic building.
+- Coordinated multiple stakeholders including architects, engineers, and preservationists to meet restoration standards.
+
+> "Historic restoration projects require balancing modern safety needs with preserving the essence of a building's history."
+
+The successful restoration of The Alaska Building was a testament to my ability to manage complex projects involving seismic retrofits, historic preservation, and a variety of stakeholders with diverse needs.
+
+---
+
+### Skills Utilized
+
+- **Historic Restoration**: Balanced the need for seismic safety upgrades with the goal of preserving the building's historic features.
+- **Client Relations**: Maintained a positive relationship with the owner, ensuring alignment on project changes and priorities.
+- **Seismic Upgrades**: Managed structural upgrades to meet modern seismic safety standards while respecting historic preservation.
+- **Stakeholder Coordination**: Collaborated with architects, engineers, and preservationists to ensure project success.
+
+This project showcases my expertise in historic renovations, seismic upgrades, and delivering award-winning results.
+
