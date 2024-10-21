@@ -10,7 +10,7 @@ featuredImage:
   altText: 255 S. King St Project Thumbnail Image
 media:
   type: ImageBlock
-  url: /images/255_king_st.png
+  url: /images/alaska_building.png
   altText: 255 S. King St High-Rise Development Project Image
 ---
 
