@@ -6,7 +6,7 @@ date: '2022-02-15'
 client: Osborne Construction Company
 featuredImage:
   type: ImageBlock
-  url: /images/255_king_st.png
+  url: /images/eastlake_project.jpg
   altText: 255 S. King St Project Thumbnail Image
 media:
   type: ImageBlock
